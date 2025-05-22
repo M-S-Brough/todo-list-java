@@ -49,6 +49,7 @@ Main class with `main()` method to drive the application
 
 ## 📐 UML Diagram
 
+![UML class](https://github.com/user-attachments/assets/8b6c65d5-7a18-4ea0-b0f3-f3044296e4dd)
 
 
 ---
